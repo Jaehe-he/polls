@@ -1,0 +1,8 @@
+body {
+    background : white url("images/background.png") no-repeat;
+    background-position: right bottom; /*웹 페이지 오른쪽 하단에 작성되어라*/
+}
+
+li a {
+    color: green;
+}
